@@ -3,7 +3,7 @@
 ---
 
 ## 🚀 About Me
-I’m a Senior Game Developer with **9 years** of professional experience, specializing in game and server-side development.
+I’m a Senior Game Developer with **8 years** of professional experience, specializing in game and server-side development.
 
 ---
 

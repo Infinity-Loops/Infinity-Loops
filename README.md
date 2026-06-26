@@ -37,7 +37,11 @@ I’m a Senior Game Developer with **8 years** of professional experience, speci
 ---
 
 ## 📫 Let’s Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vitor-souza-161998228/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vitor%20Souza-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vitor-souza-161998228/)
+
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/vitorxsouza)
+
 - 📧 marciovitor491@gmail.com  
 
 ---
